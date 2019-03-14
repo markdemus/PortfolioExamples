@@ -1,0 +1,13 @@
+body {
+  background-color: lightgreen;
+}
+header, footer {
+  background-color: red;
+  color: white;
+}
+.border {
+  border: thick solid blue;
+}
+#experience {
+  border: thin dashed yellow;
+}
