@@ -4,3 +4,4 @@
     if(sentence[i] !== " "){
       console.log(sentence[i]);
      }
+    }
